@@ -1,0 +1,8 @@
+.body{
+    /* height: 100%; */
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: red;
+    /* background-image: url("https://cdn.dribbble.com/userupload/3938331/file/original-6350195b7dd8a06f9dbce8a8aeee3e72.jpg?resize=752x"); */
+}

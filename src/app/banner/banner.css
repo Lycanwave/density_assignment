@@ -1,0 +1,13 @@
+.hero-media-asset{
+    width: 100vw;
+    height: 100vh;
+    object-fit:contain;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    /* margin-left: 100px; */
+    /* background-color: red; */
+}
